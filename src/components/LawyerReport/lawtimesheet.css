@@ -1,0 +1,36 @@
+.all_render {
+  font-size: 14px;
+}
+.gambo {
+  width: 100%;
+  color: rgb(28, 3, 51);
+  font-size: 16px;
+}
+.dj_feezy {
+  margin: 1%;
+  margin-inline-start: 1%;
+  color: rgb(28, 3, 51);
+  align-items: center;
+  font-size: 14px;
+}
+.link_Invoice {
+  margin: 40px;
+}
+.link_pr {
+  margin: 1%;
+  margin-inline-start: 2%;
+  background-color: rgb(85, 5, 138); /* Green */
+  border: none;
+  color: white;
+  padding: 10px 12px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  width: 140px;
+  border-radius: 15px;
+}
+
+.link_pr:hover {
+  transform: scale(1.1);
+}

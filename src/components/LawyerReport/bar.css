@@ -1,0 +1,25 @@
+.all_ground {
+}
+.breezy {
+  margin: 1%;
+  margin-inline-start: 1%;
+  color: rgb(246, 245, 247);
+  align-items: center;
+  font-size: 16px;
+  color: rgb(28, 3, 51);
+}
+.del_butt {
+  color: rgb(231, 231, 231);
+  background-color: rgba(104, 1, 1, 0.808);
+  border-radius: 9px;
+}
+.tableux {
+  padding-top: px;
+  width: 100%;
+  color: rgb(28, 3, 51);
+}
+.but_link {
+  color: white;
+  font-size: 14px;
+  text-decoration: none;
+}

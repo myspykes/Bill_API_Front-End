@@ -1,0 +1,40 @@
+.all_body {
+  margin: 1%;
+  margin-inline-start: 1%;
+  font-size: 16px;
+  margin-bottom: 20px;
+  color: rgb(28, 3, 51);
+}
+.company_button {
+  margin-inline-start: 29px;
+  width: 90px;
+  height: 30px;
+  color: rgb(243, 243, 243);
+  background-color: rgb(2, 34, 5);
+  border-radius: 9px;
+  padding-inline-start: center;
+
+  font-weight: 900;
+}
+.inp_company {
+  font-size: 16px;
+  width: 120px;
+}
+.lab_cname {
+  color: rgb(0, 0, 0);
+  font-weight: 500;
+}
+.inp_company {
+  width: 150px;
+  height: 20px;
+  border-color: rgb(2, 2, 37);
+  border-top-style: none;
+  border-left-style: none;
+  border-right-style: none;
+  margin-inline-start: 2px;
+  font-size: 16px;
+}
+.dj_steezy {
+  margin: 1%;
+  margin-inline-start: 1%;
+}

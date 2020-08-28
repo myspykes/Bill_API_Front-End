@@ -1,0 +1,79 @@
+.inp_empID {
+  width: 150px;
+  height: 20px;
+  border-color: rgb(2, 2, 37);
+  border-top-style: none;
+  border-left-style: none;
+  border-right-style: none;
+  font-size: 16px;
+}
+.inp_pName {
+  width: 150px;
+  height: 20px;
+  border-color: rgb(2, 2, 37);
+  border-top-style: none;
+  border-left-style: none;
+  border-right-style: none;
+  font-size: 16px;
+}
+.inp_pdate {
+  width: 150px;
+  height: 20px;
+  border-color: rgb(2, 2, 37);
+  border-top-style: none;
+  border-left-style: none;
+  border-right-style: none;
+  font-size: 16px;
+}
+.inp_pstart {
+  width: 150px;
+  height: 20px;
+  border-color: rgb(2, 2, 37);
+  border-top-style: none;
+  border-left-style: none;
+  border-right-style: none;
+  font-size: 16px;
+}
+.inp_pend {
+  width: 150px;
+  height: 20px;
+  border-color: rgb(2, 2, 37);
+  border-top-style: none;
+  border-left-style: none;
+  border-right-style: none;
+  font-size: 16px;
+}
+.lab_empID {
+  color: rgb(0, 0, 0);
+  font-weight: 500;
+}
+.lab_pName {
+  margin-inline-start: 70px;
+  color: rgb(0, 0, 0);
+  font-weight: 500;
+}
+.lab_pdate {
+  color: rgb(0, 0, 0);
+  font-weight: 500;
+}
+.lab_pstart {
+  color: rgb(0, 0, 0);
+  font-weight: 500;
+}
+.lab_pend {
+  margin-inline-start: 90px;
+  color: rgb(0, 0, 0);
+  font-weight: 500;
+}
+.back_bone {
+  margin-top: 90px;
+  margin-inline-start: 10px;
+}
+.same_plane {
+  width: 1000px;
+  margin-inline: 300px;
+}
+.same_line01 {
+  width: 1000px;
+  margin-inline: 300px;
+}
